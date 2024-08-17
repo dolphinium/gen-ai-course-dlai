@@ -9,5 +9,5 @@ https://learn.deeplearning.ai/courses/huggingface-gradio
 * [`shleifer/distilbart-cnn-12-6`](https://huggingface.co/sshleifer/distilbart-cnn-12-6)
 ### L2: IMAGE CAPTIONING APP
 * [`Salesforce/blip-image-captioning-base`](https://huggingface.co/Salesforce/blip-image-captioning-base)
-### L2: IMAGE GENERATION APP
+### L3: IMAGE GENERATION APP
 * [`runwayml/stable-diffusion-v1-5`](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main)
