@@ -11,3 +11,7 @@ https://learn.deeplearning.ai/courses/huggingface-gradio
 * [`Salesforce/blip-image-captioning-base`](https://huggingface.co/Salesforce/blip-image-captioning-base)
 ### L3: IMAGE GENERATION APP
 * [`runwayml/stable-diffusion-v1-5`](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main)
+
+### L4: DESCRIBE AND GENERATE GAME
+* [`Salesforce/blip-image-captioning-base`](https://huggingface.co/Salesforce/blip-image-captioning-base)
+* [`runwayml/stable-diffusion-v1-5`](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main)
