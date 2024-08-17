@@ -15,3 +15,11 @@ https://learn.deeplearning.ai/courses/huggingface-gradio
 ### L4: DESCRIBE AND GENERATE GAME
 * [`Salesforce/blip-image-captioning-base`](https://huggingface.co/Salesforce/blip-image-captioning-base)
 * [`runwayml/stable-diffusion-v1-5`](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main)
+
+### L5: CHAT WITH ANY LLM
+* [`falcon-40b-instruct`](https://huggingface.co/tiiuae/falcon-40b-instruct) (used on course notebook)
+
+since serverless inference api support has been disabled for falcon, I tried these two models:
+
+* [`mistralai/Mistral-Nemo-Instruct-2407`](https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407)
+* [`meta-llama/Meta-Llama-3.1-8B-Instruct`](https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct)(requires hugging face pro subscription for serverless inference api)
