@@ -7,6 +7,8 @@ https://learn.deeplearning.ai/courses/huggingface-gradio
 ### L1: NLP TASK INTERFACE
 * [`dslim/bert-base-NER`](https://huggingface.co/dslim/bert-base-NER)
 * [`shleifer/distilbart-cnn-12-6`](https://huggingface.co/sshleifer/distilbart-cnn-12-6)
+
+NER(named-entity-recognition) model is hosted at Huggingface spaces at following URL: https://huggingface.co/spaces/dolphinium/bert_ner 
 ### L2: IMAGE CAPTIONING APP
 * [`Salesforce/blip-image-captioning-base`](https://huggingface.co/Salesforce/blip-image-captioning-base)
 ### L3: IMAGE GENERATION APP
