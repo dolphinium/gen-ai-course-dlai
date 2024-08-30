@@ -8,12 +8,14 @@ https://learn.deeplearning.ai/courses/huggingface-gradio
 * [`dslim/bert-base-NER`](https://huggingface.co/dslim/bert-base-NER)
 * [`shleifer/distilbart-cnn-12-6`](https://huggingface.co/sshleifer/distilbart-cnn-12-6)
 
-NER(named-entity-recognition) model is hosted at Huggingface spaces at following URL: https://huggingface.co/spaces/dolphinium/bert_ner 
+NER(named-entity-recognition) model `dslim/bert-base-NER` is hosted at Huggingface spaces at following URL: https://huggingface.co/spaces/dolphinium/bert_ner 
+
 ### L2: IMAGE CAPTIONING APP
 * [`Salesforce/blip-image-captioning-base`](https://huggingface.co/Salesforce/blip-image-captioning-base)
 ### L3: IMAGE GENERATION APP
 * [`runwayml/stable-diffusion-v1-5`](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main)
 
+Image generation model [`stabilityai/stable-diffusion-xl-base-1.0`](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) is hosted at Huggingface spaces at following URL: https://huggingface.co/spaces/dolphinium/stable_diffusion_image_gen
 ### L4: DESCRIBE AND GENERATE GAME
 * [`Salesforce/blip-image-captioning-base`](https://huggingface.co/Salesforce/blip-image-captioning-base)
 * [`runwayml/stable-diffusion-v1-5`](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main)
