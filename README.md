@@ -20,6 +20,11 @@ Image generation model [`stabilityai/stable-diffusion-xl-base-1.0`](https://hugg
 * [`Salesforce/blip-image-captioning-base`](https://huggingface.co/Salesforce/blip-image-captioning-base)
 * [`runwayml/stable-diffusion-v1-5`](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main)
 
+
+Describe and Regenerate model [`TTI STABLE DIFFUSION`](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) [`ITT BLIP-large`](https://huggingface.co/Salesforce/blip-image-captioning-large) is hosted at Huggingface spaces at following URL: 
+https://huggingface.co/spaces/dolphinium/Describe_and_Regenerate. 
+* It is a demonstration of multi model usage on HuggingFace Spaces and Gradio
+
 ### L5: CHAT WITH ANY LLM
 * [`falcon-40b-instruct`](https://huggingface.co/tiiuae/falcon-40b-instruct) (used on course notebook)
 
