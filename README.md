@@ -28,6 +28,11 @@ https://huggingface.co/spaces/dolphinium/Describe_and_Regenerate.
 ### L5: CHAT WITH ANY LLM
 * [`falcon-40b-instruct`](https://huggingface.co/tiiuae/falcon-40b-instruct) (used on course notebook)
 
+
+Chatbot application [`mistralai/Mistral-Nemo-Instruct-2407`](https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407) is hosted at Huggingface spaces at following URL: 
+https://huggingface.co/spaces/dolphinium/mistral_llm_chatbot
+
+
 since serverless inference api support has been disabled for falcon, I tried these two models:
 
 * [`mistralai/Mistral-Nemo-Instruct-2407`](https://huggingface.co/mistralai/Mistral-Nemo-Instruct-2407)
