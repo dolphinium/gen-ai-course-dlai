@@ -62,7 +62,7 @@ def generate(prompt, negative_prompt, steps, guidance, width, height):
     return result_image
 
 with gr.Blocks() as demo:
-    gr.Markdown("# Image Generation with stable-diffusion-xl-base-1.0")
+    gr.Markdown("## Image Generation with stable-diffusion-xl-base-1.0")
     with gr.Row():
         with gr.Column(scale=4):
             prompt = gr.Textbox(label="Your prompt") #Give prompt some real estate
