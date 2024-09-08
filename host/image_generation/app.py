@@ -72,7 +72,7 @@ with gr.Blocks() as demo:
             negative_prompt = gr.Textbox(label="Negative prompt")
             with gr.Row():
                 with gr.Column():
-                    steps = gr.Slider(label="Inference Steps", minimum=1, maximum=100, value=25,
+                    steps = gr.Slider(label="Inference Steps", minimum=1, maximum=100, value=50,
                       info="In many steps will the denoiser denoise the image?")
                     guidance = gr.Slider(label="Guidance Scale", minimum=1, maximum=20, value=7,
                       info="Controls how much the text prompt influences the result")
